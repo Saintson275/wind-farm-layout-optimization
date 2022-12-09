@@ -110,7 +110,7 @@ def cost_time(parent_list, offspring_list, data, num_m, num_job, population):
     v=[0 for c in range(population*2)]
     
     for c in range(population*2):
-        # 初始化flow_hold
+        # Initialize flow_ hold
         for i in range(num_m):
             v[c] = v[c] + data[total_chromosome[c][0]][i]
             flow_hold[c,i] = v[c]
