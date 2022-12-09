@@ -6,7 +6,7 @@
 
   pip install numpy pandas
 
-### execute
+### run
   python main.py --instance_all 1
 
 ### result
