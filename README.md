@@ -4,13 +4,14 @@
 
 ### install
 
-  pip install numpy pandas
+  pip install numpy&pandas
 
 ### run
-  python main.py --instance_all 1
+  python GA.py for Genetic Algorithm
 
 ### result
-  Save in the result.txt in the current directory after running
+  After running the GA.py or PSO.py, you can get the results in the current Directory.
+  The jupyter notebook file has recorded the results of experiments
 
 
 ### Genetic Algorithm Based Optimal Arrangement Method of Multi type Fans in Wind Farm
@@ -21,5 +22,4 @@
 - 4)Introducing repair operators to individuals in the population;
 - 5)Tabu operator is introduced to the current generation optimal solution of the population, and the optimal solution is taken as the initial solution of Tabu algorithm to search the neighborhood solution of the optimal solution ;
 - 6)Judge whether the maximum number of iterations is reached. If yes, complete the optimal layout of multi model fans, otherwise return to step 2)
-### flow chart
-![avatar](./step.png)
+
