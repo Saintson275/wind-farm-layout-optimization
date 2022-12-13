@@ -6,9 +6,9 @@ This is a project about how to optimize the layout of wind farm by Nature-Inspir
 We provided 2 folders GA_WFLO and PSO_WFLO for Genetic Algorithm and PSO Algorithm sperately.
 
 ## Genetic Algorithm
-- 1)The Genetic Algorithm implementation is displayed in GA.py
+- 1) The Genetic Algorithm implementation is displayed in GA.py
 
-- 2)The PSO Algorithm implementation is displayed in PSO.py
+- 2) The PSO Algorithm implementation is displayed in PSO.py
 
 ## install
   pip install numpy&pandas
@@ -18,7 +18,7 @@ We provided 2 folders GA_WFLO and PSO_WFLO for Genetic Algorithm and PSO Algorit
   
   - 2) python PSO.py for PSO Algorithm
 ## result
-  - 1)After running the GA.py or PSO.py, you can get the results in the current Directory.
+  - 1) After running the GA.py or PSO.py, you can get the results in the current Directory.
   
-  - 2)The jupyter notebook file has recorded the results of experiments
+  - 2) The jupyter notebook file has recorded the results of experiments
 
