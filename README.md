@@ -1,14 +1,14 @@
 # Wind farm layout optimization based on GA and PSO
  Implementations for the Wind Farm Layout Optimization competition
  
-## info
+## Info
 This is a project about how to optimize the layout of wind farm by Nature-Inspired algorithm.
 We provided 2 folders GA_WFLO and PSO_WFLO for Genetic Algorithm and PSO Algorithm sperately.
 
 ## Genetic Algorithm
-- 1) The Genetic Algorithm implementation is displayed in GA.py
+The Genetic Algorithm implementation is displayed in GA.py
 ## PSO Algorithm
-- 2) The PSO Algorithm implementation is displayed in PSO.py
+The PSO Algorithm implementation is displayed in PSO.py
 
 ## install
   pip install numpy&pandas
