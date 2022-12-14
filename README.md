@@ -7,7 +7,7 @@ We provided 2 folders GA_WFLO and PSO_WFLO for Genetic Algorithm and PSO Algorit
 
 ## Genetic Algorithm
 - 1) The Genetic Algorithm implementation is displayed in GA.py
-
+## PSO Algorithm
 - 2) The PSO Algorithm implementation is displayed in PSO.py
 
 ## install
