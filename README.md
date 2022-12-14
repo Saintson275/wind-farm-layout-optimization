@@ -14,11 +14,11 @@ The PSO Algorithm implementation is displayed in PSO.py
   pip install numpy&pandas
 
 ### run
-  - 1) python GA.py for Genetic Algorithm
+  -  python GA.py for Genetic Algorithm
   
-  - 2) python PSO.py for PSO Algorithm
+  -  python PSO.py for PSO Algorithm
 ## result
-  - 1) After running the GA.py or PSO.py, you can get the results in the current Directory.
+  -  After running the GA.py or PSO.py, you can get the results in the current Directory.
   
-  - 2) The jupyter notebook file has recorded the results of experiments
+  -  The jupyter notebook file has recorded the results of experiments
 
