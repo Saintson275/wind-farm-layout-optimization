@@ -2,7 +2,7 @@
  Implementations for the Wind Farm Layout Optimization competition
  
 ## Info
-This project is a competion solution of wind farm layout optimization by using Nature-Inspired algorithms.
+This project is a competition solution of wind farm layout optimization by using Nature-Inspired algorithms.
 We provided 2 folders GA_WFLO and PSO_WFLO for Genetic Algorithm and PSO Algorithm sperately.
 And we will these algorithnm to optimize the layout of wind farm
 
